@@ -1,7 +1,7 @@
 package fxconfig
 
 import (
-	"github.com/templatedop/fxconfigs/config"
+	"github.com/templatedop/config"
 	"go.uber.org/fx"
 )
 

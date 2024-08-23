@@ -4,6 +4,7 @@ go 1.22.1
 
 require (
 	github.com/spf13/viper v1.19.0
+	github.com/templatedop/config v0.0.1
 	go.uber.org/fx v1.22.2
 )
 
